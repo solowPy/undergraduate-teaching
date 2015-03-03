@@ -1,2 +1,2 @@
 # undergraduate-teaching
-Repository for teaching materials for undergraduates.
+Repository of teaching materials for undergraduates.
